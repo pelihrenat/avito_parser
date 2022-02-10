@@ -34,4 +34,5 @@ for car in allCar:
 
     allCarData.append([carName, carLink, carSity, *priceCar])
 print(allCarData)
+#Test
 
